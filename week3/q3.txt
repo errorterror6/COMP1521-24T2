@@ -1,0 +1,9 @@
+
+    int u;          //.space 4
+
+
+    int v = 42;     //.word 42
+    char w;         //.space 1
+    char x = 'a';   //.byte 'a'
+    double y;       //.space 8
+    int z[20];      //.space 80
