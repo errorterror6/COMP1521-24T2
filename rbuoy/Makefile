@@ -1,0 +1,1 @@
+/web/cs1521/24T2/resources/Makefile.exercises
