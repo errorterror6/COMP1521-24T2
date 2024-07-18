@@ -13,3 +13,5 @@ week 5: https://www.canva.com/design/DAFwx1iTmY8/9nLAn6awArWgdEaPbTUFkQ/edit?utm
 week 6: flexi
 
 week 7: https://www.canva.com/design/DAFyEmeYcRY/Bgp6R9IVgmZxSmYyA1MAtA/edit?utm_content=DAFyEmeYcRY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+week 8: https://www.canva.com/design/DAFyx0gjMeA/M-ewW1EykFCmVnkTlbfUzg/edit?utm_content=DAFyx0gjMeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
