@@ -1,0 +1,6 @@
+#include <errno.h>      // for `errno' values
+#include <string.h>     // for `strerror(3)`
+
+errno = ENOENT;
+char *error = strerror(errno);
+assert(strcmp(error, "No such file or directory") == 0);

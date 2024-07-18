@@ -1,0 +1,2 @@
+fopen(FilePath, "a") 
+open(FilePath, O_WRONLY | O_APPEND | O_CREAT)

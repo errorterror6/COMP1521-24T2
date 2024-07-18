@@ -1,0 +1,27 @@
+a)
+/home/cs1521/web
+
+b)
+/   (which is the root )
+
+c)
+.. directory
+
+d)
+cat is a binary file
+
+e)
+home is a directory
+
+f)
+file,
+tty0 is a character special file, a file that represents a
+ device which can read and write a byte-stream, 
+ which is typically interpreted as characters.
+
+ g)
+a symlink is just a file that points to another file by name
+it contains the name to another file
+
+h) it allows for connections to other parts of the
+ tree which may form loops and create a graph instead.
